@@ -7,10 +7,34 @@
   }
 
   &__img {
-    
+    background-color: #f8f4f4;
+    text-align: center;
+    // display: flex;
+    text-align: center;
+    justify-content: center;
+    // padding: ;
+    img {
+      position: relative;
+      left: 0%;
+      top: 30%;
+      width: 15%;
+      height: auto;
+    }
   }
 
   &__content {
-    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #f8f4f4;
+    align-items: center;
+
+    h1 {
+      width: 30%;
+    }
+
+    p {
+      width: 50%;
+    }
   }
 }
