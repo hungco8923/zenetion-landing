@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/zeneton-landing/static/css/main.63482acf.css",
-    "main.js": "/zeneton-landing/static/js/main.aabee355.js",
+    "main.css": "/zeneton-landing/static/css/main.c02bc169.css",
+    "main.js": "/zeneton-landing/static/js/main.10beaece.js",
     "static/js/787.c5e64629.chunk.js": "/zeneton-landing/static/js/787.c5e64629.chunk.js",
     "static/media/Hero-video.mp4": "/zeneton-landing/static/media/Hero-video.9a0defcb10293dc5027a.mp4",
     "static/media/Boxer.webp": "/zeneton-landing/static/media/Boxer.dda8c512be9729329ca4.webp",
     "static/media/821px-CK_Calvin_Klein_logo.svg.png": "/zeneton-landing/static/media/821px-CK_Calvin_Klein_logo.svg.efb2e96f79a3cfc0d8cd.png",
     "index.html": "/zeneton-landing/index.html",
-    "main.63482acf.css.map": "/zeneton-landing/static/css/main.63482acf.css.map",
-    "main.aabee355.js.map": "/zeneton-landing/static/js/main.aabee355.js.map",
+    "main.c02bc169.css.map": "/zeneton-landing/static/css/main.c02bc169.css.map",
+    "main.10beaece.js.map": "/zeneton-landing/static/js/main.10beaece.js.map",
     "787.c5e64629.chunk.js.map": "/zeneton-landing/static/js/787.c5e64629.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63482acf.css",
-    "static/js/main.aabee355.js"
+    "static/css/main.c02bc169.css",
+    "static/js/main.10beaece.js"
   ]
 }
